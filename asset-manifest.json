@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/Linkapp/static/css/main.073c9b0a.css",
-    "main.js": "/Linkapp/static/js/main.83bfce42.js",
+    "main.css": "/Linkapp/static/css/main.a102879e.css",
+    "main.js": "/Linkapp/static/js/main.6c8f6873.js",
     "static/js/787.d80ee457.chunk.js": "/Linkapp/static/js/787.d80ee457.chunk.js",
-    "static/media/logo.svg": "/Linkapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/tk7.jpg": "/Linkapp/static/media/tk7.13c3f629f1aa02d65746.jpg",
+    "static/media/tk6.jpg": "/Linkapp/static/media/tk6.f56dad7759e5ed2454d0.jpg",
+    "static/media/tk3.jpg": "/Linkapp/static/media/tk3.543ab8a61f27b9753dcc.jpg",
+    "static/media/tklogo.jpg": "/Linkapp/static/media/tklogo.ad8472c9468b8a92196c.jpg",
+    "static/media/tk2.jpg": "/Linkapp/static/media/tk2.bc0c9517a99fd609df46.jpg",
+    "static/media/kt1.jpg": "/Linkapp/static/media/kt1.e0cff18c9cf900870040.jpg",
     "index.html": "/Linkapp/index.html",
-    "main.073c9b0a.css.map": "/Linkapp/static/css/main.073c9b0a.css.map",
-    "main.83bfce42.js.map": "/Linkapp/static/js/main.83bfce42.js.map",
+    "main.a102879e.css.map": "/Linkapp/static/css/main.a102879e.css.map",
+    "main.6c8f6873.js.map": "/Linkapp/static/js/main.6c8f6873.js.map",
     "787.d80ee457.chunk.js.map": "/Linkapp/static/js/787.d80ee457.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.83bfce42.js"
+    "static/css/main.a102879e.css",
+    "static/js/main.6c8f6873.js"
   ]
 }
